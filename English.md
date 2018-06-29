@@ -34,7 +34,7 @@ EBI-roadshow at dbcls.rois.ac.jp
 - National Bioscience Database Center (NBDC), Japan Science and Technology Agency (JST)
 
 ### Program
-#### Day 1: Access to Genes and Genomes with Ensembl (Jana Vandrovcova) 【Lectures and exercises movie】
+#### Day 1: Access to Genes and Genomes with Ensembl (Jana Vandrovcova) 【[Lectures and exercises movie](http://togotv.dbcls.jp/20110905.html#p01)】
 - 09:00 - 09:15 Welcome remarks from the organizers 
 - 09:15 - 09:45 Introduction to EBI: overview of most relevant databases (Lecture) 
 - 09:45 - 11:15 Origin, goals, data and analysis in the Ensembl project Website Walkthrough 
@@ -48,7 +48,7 @@ EBI-roadshow at dbcls.rois.ac.jp
 - 15:15 - 15:30 Coffee break 
 - 15:30 - 16:30 Variations: Single nucleotide polymorphisms in Ensembl, comparison of strains, breeds, individuals using the browser and BioMart (Lecture and exercises) 
 - 16:30 - 17:15 Case Study Exercises, or browse your own gene or region
-#### Day 2: Transcriptomics and Pathways (James Watson) 【Lectures and exercises movie】
+#### Day 2: Transcriptomics and Pathways (James Watson) 【[Lectures and exercises movie](http://togotv.dbcls.jp/20110906.html#p01)】
 - 09:00 - 10:30 Functional Genomics resources at the EBI: ArrayExpress and Expression Atlas (Lecture) 
 - 10:30 - 10:45 Coffee break 
 - 10:45 - 12:30 ArrayExpress/Atlas exercises 
