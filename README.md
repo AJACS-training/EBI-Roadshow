@@ -1,7 +1,8 @@
-English Page
+[English Page](english.md)
 
 # EBI 講習会
 [EBI Roadshow poster](EBIposter.pdf)
+
 この講習会は、Ensembl、ArrayExpress、InterPro、BRENDA、PRIDE、IntAct、Reactomeなどの、主にヨーロッパで開発されている公共データベースの使い方について知ってもらうことを目的としています。講習会では、これらのデータベースを開発・運用している欧州バイオインフォマティクス研究所 (EBI) から講師をお招きして、各データベースに関する「講義」と、それらをPC上で実際に操作する「実習」を行います。詳細は EBI Roadshow のページをご覧ください。なお、講習会は英語で行われますのでご留意ください。
 
 ### 日時
