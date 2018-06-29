@@ -1,10 +1,10 @@
 
-Japanese page
+[Japanese page](README.md)
 
 # EBI Roadshow at DBCLS
-EBI Roadshow poster
+[EBI Roadshow poster](EBIposter.pdf)
 
-The purpose of the roadshow is to train experimental biologists how to make the most of some of Europe's most widely used public biological databases, such as Ensembl, ArrayExpress, BioMart, Expression Atlas and Reactome. The roadshow combines presentations and hands-on practical sessions. Trainees are guided through the selected databases and tools by expert trainers from the European Bioinformatics Institute (EBI), the Swiss Institute of Bioinformatics (SBI), the European Patent Office (EPO) and the BRENDA project. More information is available on the Bioinformatics Roadshow website.
+The purpose of the roadshow is to train experimental biologists how to make the most of some of Europe's most widely used public biological databases, such as Ensembl, ArrayExpress, BioMart, Expression Atlas and Reactome. The roadshow combines presentations and hands-on practical sessions. Trainees are guided through the selected databases and tools by expert trainers from the European Bioinformatics Institute (EBI), the Swiss Institute of Bioinformatics (SBI), the European Patent Office (EPO) and the BRENDA project. More information is available on the [Bioinformatics Roadshow website](http://www.ebi.ac.uk/training/roadshow/).
 
 ### Date
 5(Mon)/6(Tue) September 2011 
